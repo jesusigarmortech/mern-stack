@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://jesus123:jesus123@devconnector.cylpu.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "5427f99f81f3fca8e253",
+    "githubSecret": "e36aad49fa073f7e395c2300d25e57b255728a42"
+}
